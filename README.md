@@ -1,4 +1,4 @@
-👋 Olá! Me chamo André Luiz!
+👋 Olá! Me chamo André Luiz! \n
 🎓 Estudante de Bacharelado em Ciência da Computação na Universidade Federal Fluminense (UFF)
 
 💻 Atualmente:
