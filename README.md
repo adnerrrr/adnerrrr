@@ -9,6 +9,21 @@
 </div>
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adnerrrr&bg_color=0D1117&color=ADD8E6&line=00008B&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img
+    align="center"
+    alt = "Github Stats"
+    height = "200"
+    style = "padding-right: 10px"
+    src="https://github-stats-extended.vercel.app/api?username=adnerrrr&show_icons=true&bg_color=00000000&title_color=937a35&text_color=557f93&icon_color=937a35&border_color=0a1d4a&rank_icon=github&include_all_commits=true&custom_title=Adner%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+  />
+  <img
+    align="center"
+    alt = "Github Stats"
+    height = "200"
+    style = "padding-right: 10px"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnerrrr&bg_color=00000000&title_color=937a35&text_color=557f93&icon_color=3a75c4&border_color=0a1d4a&stats_format=bytes&size_weight=0.5&count_weight=0.5"
+  />
+</div>
 
 <br><br><br><br><br>
