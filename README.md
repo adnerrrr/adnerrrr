@@ -15,14 +15,14 @@
     alt = "Github Stats"
     height = "200"
     style = "padding-right: 10px"
-    src="https://github-stats-extended.vercel.app/api?username=adnerrrr&show_icons=true&bg_color=00000000&title_color=937a35&text_color=557f93&icon_color=937a35&border_color=0a1d4a&rank_icon=github&include_all_commits=true&custom_title=Adner%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+    src="https://github-stats-extended.vercel.app/api?username=adnerrrr&rank_icon=github&custom_title=adnerrrr&show_icons=true&include_all_commits=true&disable_animations=false&theme=shadow_green"
   />
   <img
     align="center"
     alt = "Github Stats"
     height = "200"
     style = "padding-right: 10px"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnerrrr&bg_color=00000000&title_color=937a35&text_color=557f93&icon_color=3a75c4&border_color=0a1d4a&stats_format=bytes&size_weight=0.5&count_weight=0.5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnerrrr&stats_format=bytes&size_weight=0.5&count_weight=0.5&langs_count=4&hide_values=true&disable_animations=false&theme=shadow_green"
   />
 </div>
 
