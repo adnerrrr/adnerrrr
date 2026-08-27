@@ -20,7 +20,7 @@
   <img
     align="center"
     alt = "Github Stats"
-    height = "200"
+    height = "195"
     style = "padding-right: 10px"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnerrrr&stats_format=bytes&size_weight=0.5&count_weight=0.5&langs_count=4&hide_values=true&disable_animations=false&theme=shadow_green"
   />
